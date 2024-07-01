@@ -2,7 +2,6 @@
 
 - 🔭 Front-End
 - 🌱 Estudando JavaScript
-- 😄 Ela/Dela
 
 ###
 
