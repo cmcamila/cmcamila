@@ -1,4 +1,4 @@
-<h2 align="left">Ei, você! Eu sou Camila :)</h2>
+<h3 align="left">Ei, você! Eu sou Camila :)</h3>
 
 - 🔭 Front-End
 - 🌱 Estudando JavaScript
